@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.bigCard{
+    padding-top: 100px;
+}
+
+
+
+
+@media (max-width: 575px) {
+    
+}
